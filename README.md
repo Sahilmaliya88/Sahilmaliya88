@@ -1,3 +1,4 @@
+<img src="https://media.gifdb.com/animated-man-computer-coding-nae6mec378lsg1i3.gif"/>
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
