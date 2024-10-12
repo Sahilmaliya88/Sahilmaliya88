@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+
     <style>
         *{
             font-family: cursive;
@@ -25,8 +20,6 @@
             box-shadow: .5px .5px 1px rgb(163, 163, 163);
         }
     </style>
-</head>
-<body>
     <iframe src="https://giphy.com/embed/EeZ6mLsRRik8cgnh3D" width="480" height="480" style="" frameBorder="0" class="giphy-embed" ></iframe><p><a href="https://giphy.com/gifs/Tecocraft-computer-technology-laptop-EeZ6mLsRRik8cgnh3D">via GIPHY</a></p>
     <h1 align="center">Hi 👋, I'm Sahil</h1>
     <h3 align="center">A passionate Full stack developer from India</h3>
@@ -55,5 +48,3 @@
 
         <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilmaliya88&show_icons=true&locale=en" alt="sahilmaliya88" /></p>
     
-</body>
-</html>
